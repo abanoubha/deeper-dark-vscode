@@ -1,0 +1,25 @@
+{
+  "name": "deeper-dark",
+  "displayName": "deeper dark",
+  "description": "a deeper dark theme for better contrast.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deeper Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/deeper-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abanoubha/deeper-dark-vscode.git"
+  }
+}
