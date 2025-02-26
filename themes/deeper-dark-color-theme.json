@@ -92,7 +92,7 @@
 		"settings.dropdownBorder": "#3C3C3C",
 		"settings.headerForeground": "#FFFFFF",
 		"settings.modifiedItemIndicator": "#BB800966",
-		"sideBar.background": "#181818",
+		"sideBar.background": "#000000",
 		"sideBar.border": "#2B2B2B",
 		"sideBar.foreground": "#CCCCCC",
 		"sideBarSectionHeader.background": "#181818",
