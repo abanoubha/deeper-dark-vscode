@@ -99,7 +99,7 @@
 		"sideBarSectionHeader.border": "#2B2B2B",
 		"sideBarSectionHeader.foreground": "#CCCCCC",
 		"sideBarTitle.foreground": "#CCCCCC",
-		"statusBar.background": "#181818",
+		"statusBar.background": "#000000",
 		"statusBar.border": "#2B2B2B",
 		"statusBar.debuggingBackground": "#0078D4",
 		"statusBar.debuggingForeground": "#FFFFFF",
