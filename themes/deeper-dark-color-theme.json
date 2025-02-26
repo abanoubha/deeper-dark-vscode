@@ -17,7 +17,7 @@
 		"terminal.inactiveSelectionBackground": "#3A3D41",
 		"actionBar.toggledBackground": "#383a49",
 		"activityBar.activeBorder": "#0078D4",
-		"activityBar.background": "#181818",
+		"activityBar.background": "#000000",
 		"activityBar.border": "#2B2B2B",
 		"activityBar.foreground": "#D7D7D7",
 		"activityBar.inactiveForeground": "#868686",
