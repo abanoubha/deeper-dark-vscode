@@ -1,16 +1,23 @@
-# deeper-dark README
+# deeper-dark color theme
 
-## Working with Markdown
+## develop
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+```sh
+# install Yeoman and the VS Code extension generator
+npm install -g yo generator-code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## run the generator
+yo code
 
-## For more information
+# install vsce to package and publish exts
+npm install -g vsce
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# package the ext.
+vsce package
 
-**Enjoy!**
+# publish it on vs code marketplace
+vsce publish
+
+# install the color theme extension
+code --install-extension deeper-dark-*.vsix
+```
