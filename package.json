@@ -20,6 +20,9 @@
   },
   "publisher": "abanoubha",
   "license": "SEE LICENSE IN https://github.com/abanoubha/deeper-dark-vscode/blob/main/LICENSE",
+  "bugs": {
+    "url": "https://github.com/abanoubha/deeper-dark-vscode/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/abanoubha/deeper-dark-vscode.git"
