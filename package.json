@@ -18,6 +18,7 @@
       }
     ]
   },
+  "publisher": "abanoubha",
   "repository": {
     "type": "git",
     "url": "https://github.com/abanoubha/deeper-dark-vscode.git"
