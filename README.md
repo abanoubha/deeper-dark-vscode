@@ -1,5 +1,9 @@
 # deeper-dark color theme
 
+## Install Deeper Dark color theme
+
+You can find the extension on VS Marketplace: <https://marketplace.visualstudio.com/items?itemName=abanoubha.deeper-dark>
+
 ## develop
 
 ```sh
